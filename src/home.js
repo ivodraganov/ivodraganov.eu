@@ -6,7 +6,7 @@ import { html, render } from 'https://unpkg.com/lit-html?module';
 export const Home = () => html`
     <div class="center-content">
         <div class="content-wrapper">
-            <img src="./images/pic.jpeg" alt="" class="profile-pic"/>
+            <div class="profile-pic"></div>
             <div class="text-content">
                 <h1>Ivo Draganov</h1>
                 <p class="description">Computer Science Teacher
