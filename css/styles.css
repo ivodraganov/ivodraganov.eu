@@ -63,7 +63,7 @@ canvas{
 }
 
 .profile-pic {
-  background-image: url('./images/pic.jpeg');
+  background-image: url('../images/pic.jpeg');
   background-size: cover;
   background-position: center;
   width: 160px;
@@ -72,6 +72,8 @@ canvas{
   object-fit: cover;
   border: 4px solid white;
   margin-bottom: 20px;
+  pointer-events: none;
+  user-select: none;
 }
 
 h1 {
