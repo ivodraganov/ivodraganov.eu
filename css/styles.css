@@ -63,6 +63,9 @@ canvas{
 }
 
 .profile-pic {
+  background-image: url('./images/pic.jpeg');
+  background-size: cover;
+  background-position: center;
   width: 160px;
   height: 160px;
   border-radius: 50%;
