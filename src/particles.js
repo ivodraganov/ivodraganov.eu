@@ -36,10 +36,10 @@ particlesJS("particles-js", {
     events: {
       onhover: {
         enable: true,
-        mode: "grab"  // <<----- Това искаш
+        mode: "grab" 
       },
       onclick: {
-        enable: false  // Изключваме клик действието
+        enable: false
       },
       resize: true
     },
@@ -47,7 +47,7 @@ particlesJS("particles-js", {
       grab: {
         distance: 200,
         line_linked: {
-          opacity: 0.8  // колко силно се виждат линиите при "grab"
+          opacity: 0.8
         }
       }
     }
