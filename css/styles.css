@@ -47,9 +47,10 @@ body {
   overflow: hidden;
 }
 
-canvas{
-  display:block;
-  vertical-align:bottom;
+#particles-js canvas {
+  width: 100% !important;
+  height: 100% !important;
+  display: block;
 }
 
  #particles-js {
