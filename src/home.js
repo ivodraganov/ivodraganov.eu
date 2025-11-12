@@ -12,7 +12,7 @@ export const Home = () => html`
                     <img src="./images/email.png" class="social-icon"></a><a
                     href="https://www.instagram.com/ivo.draganov/" title="Instagram">
                     <img src="./images/instagram.png" class="social-icon"></a>
-                    <a href="https://www.buymeacoffee.com/draganov.ivo" title="Buy me a coffe">
+                    <a href="https://www.buymeacoffee.com/draganov.ivo" title="Buy me a coffee">
                     <img src="./images/bff.svg" class="social-icon"></a>
                 </div>
             </div>
