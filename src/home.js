@@ -11,10 +11,10 @@ export const Home = () => html`
                 <h1>Ivo Draganov</h1>
                 <p class="description">Proffesional Truck Driver</p>
                 <div class="social-icons">
-                    <a href="mailto:draganov.ivo@proton.me" target="_blank">
+                    <a href="mailto:draganov.ivo@proton.me" title="Email">
                         <img src="./images/email.png" class="social-icon" alt="draganov.ivo@proton.me">
                     </a>
-                        <a href="https://www.instagram.com/ivo.draganov/" target="_blank">
+                        <a href="https://www.instagram.com/ivo.draganov/" title="Instagram">
                         <img src="./images/instagram.png" class="social-icon" alt="Instagram">
                     </a>
                 </div>
