@@ -12,10 +12,10 @@ export const Home = () => html`
                 <p class="description">Proffesional Truck Driver</p>
                 <div class="social-icons">
                     <a href="mailto:draganov.ivo@proton.me" title="Email">
-                        <img src="./images/email.png" class="social-icon" alt="draganov.ivo@proton.me">
+                        <img src="./images/email.png" class="social-icon">
                     </a>
                         <a href="https://www.instagram.com/ivo.draganov/" title="Instagram">
-                        <img src="./images/instagram.png" class="social-icon" alt="Instagram">
+                        <img src="./images/instagram.png" class="social-icon">
                     </a>
                 </div>
             </div>
