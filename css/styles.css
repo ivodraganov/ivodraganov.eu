@@ -173,4 +173,7 @@ h1 {
   opacity: .6;
   cursor: not-allowed;
 }
+.contact-form ::placeholder {
+  font-style: italic;
+}
 
