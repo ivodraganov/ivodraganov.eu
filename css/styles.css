@@ -30,7 +30,9 @@ body {
   font: normal 75% 'JetBrains Mono', monospace;
   overflow: hidden;
 }
-
+a {
+  text-decoration: none;
+}
 #particles-js canvas {
   width: 100% !important;
   height: 100% !important;
