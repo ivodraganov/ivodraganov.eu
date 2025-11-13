@@ -9,11 +9,12 @@ export const Home = () => html`
                 <p class="description">Proffesional Truck Driver</p>
                 <div class="social-icons">
                     <a href="/contact" title="Email">
-                    <img src="./images/email.png" class="social-icon"></a><a
-                    href="https://www.instagram.com/ivo.draganov/" title="Instagram">
-                    <img src="./images/instagram.png" class="social-icon"></a>
-                    <a href="https://www.buymeacoffee.com/draganov.ivo" title="Buy me a coffee">
-                    <img src="./images/bff.svg" class="social-icon"></a>
+                    <img src="./images/email.png" class="social-icon">
+                    </a><a href="https://www.instagram.com/ivo.draganov/" title="Instagram">
+                    <img src="./images/instagram.png" class="social-icon">
+                    </a><a href="https://www.buymeacoffee.com/draganov.ivo" title="Buy me a coffee">
+                    <img src="./images/bff.svg" class="social-icon">
+                    </a>
                 </div>
             </div>
         </div>
