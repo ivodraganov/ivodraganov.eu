@@ -176,4 +176,14 @@ h1 {
 .contact-form ::placeholder {
   font-style: italic;
 }
+.bg-overlay {
+  position: fixed;
+  inset: 0;
+  background-image: url('../images/map.png');
+  background-size: cover;
+  background-position: center;
+  z-index: 0;
+  background-blend-mode: overlay;
+  filter: blur(2px);
+}
 
